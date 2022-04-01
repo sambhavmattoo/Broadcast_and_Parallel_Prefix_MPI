@@ -121,4 +121,4 @@ Finalizing MPI...
 
  1 FAILED TEST
 ```
-
+See my report2.pdf to understand the functioning of this code, and also the prob2.pdf to look at the problem statement and key pointers.
